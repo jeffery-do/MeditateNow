@@ -1,0 +1,30 @@
+meditation_techniques:
+  - name: "Mindfulness Meditation"
+    description: "Focuses on being present and aware of the current moment. Practitioners observe their thoughts and feelings without judgment."
+
+  - name: "Loving-Kindness Meditation (Metta)"
+    description: "Involves sending positive thoughts and well-wishes to oneself and others, fostering compassion and kindness."
+
+  - name: "Body Scan Meditation"
+    description: "Entails mentally scanning the body from head to toe, noting any sensations, tension, or discomfort and releasing it."
+
+  - name: "Guided Visualization"
+    description: "Uses mental imagery to take the practitioner on a journey to a peaceful, calming place, guided by a voice or recording."
+
+  - name: "Transcendental Meditation"
+    description: "Involves silently repeating a personal mantra to achieve a state of relaxed awareness and transcendence."
+
+  - name: "Breath Awareness Meditation"
+    description: "Centers on focusing on the breath, noticing the inhale and exhale, and returning to the breath whenever the mind wanders."
+
+  - name: "Zen Meditation (Zazen)"
+    description: "A traditional Buddhist practice that involves sitting in a specific posture and focusing on breathing or simply being aware of the present moment."
+
+  - name: "Chakra Meditation"
+    description: "Focuses on the body’s energy centers (chakras), using visualization and mantras to align and balance the chakras."
+
+  - name: "Vipassana Meditation"
+    description: "Known as insight meditation, it emphasizes seeing things as they truly are through deep observation of thoughts, feelings, and sensations."
+
+  - name: "Walking Meditation"
+    description: "Combines movement with mindfulness by focusing on the experience of walking, noticing each step, and the sensations in the body."
